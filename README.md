@@ -17,12 +17,11 @@
 ##
 <div align="center">
   <div style="display: inline_block">
-    <a href="https://github.com/ramos-antonio">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ramos-antonio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-antonio&layout=compact&langs_count=7&theme=tokyonight"/>
+    <a href="https://www.linkedin.com/in/antonio-carlos-ramos" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramos-antonio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-antonio&layout=demo&langs_count=10&theme=tokyonight"/>
   </div>
 </div>
-
 
 <h2>Tools and Technologies</h2>
 <div align="center">
