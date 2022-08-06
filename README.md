@@ -14,7 +14,7 @@
   </div>
 </div>
 
-##
+<h2>Statistics</h2>
 <div align="center">
   <div style="display: inline_block">
     <a href="https://www.linkedin.com/in/antonio-carlos-ramos" target="_blank">
@@ -74,7 +74,6 @@
 <a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/480/java-web-token.png" alt="sql" width="40" height="40"/> </a>
  </div>
 
-
 <h2>Social Links</h2>
 <div align="center">
   <div style="display: inline_block">
@@ -85,9 +84,9 @@
 </div>
  
 <div align="center">
-
+  <a href="https://www.linkedin.com/in/antonio-carlos-ramos" target="_blank">
+  
   ![Snake animation](https://github.com/ramos-antonio/ramos-antonio/blob/output/github-contribution-grid-snake.svg)
-
 </div>
   
   
