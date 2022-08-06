@@ -1,10 +1,10 @@
 <h3>
   Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">
   <br/>
+  <br/>
   Welcome to my GitHub profile, my name is Antonio, I'm a Web Development student | Trybe | Class XP Inc.
 </h3>
-
-
+<br/>
 <div align="center">
   <img height="100px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
